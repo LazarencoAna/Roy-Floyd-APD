@@ -1,0 +1,15 @@
+E:\sem2\apd\New folder\RoyFloydV2\bin\Debug\net6.0\RoyFloydV2.exe
+E:\sem2\apd\New folder\RoyFloydV2\bin\Debug\net6.0\RoyFloydV2.deps.json
+E:\sem2\apd\New folder\RoyFloydV2\bin\Debug\net6.0\RoyFloydV2.runtimeconfig.json
+E:\sem2\apd\New folder\RoyFloydV2\bin\Debug\net6.0\RoyFloydV2.dll
+E:\sem2\apd\New folder\RoyFloydV2\bin\Debug\net6.0\RoyFloydV2.pdb
+E:\sem2\apd\New folder\RoyFloydV2\obj\Debug\net6.0\RoyFloydV2.csproj.AssemblyReference.cache
+E:\sem2\apd\New folder\RoyFloydV2\obj\Debug\net6.0\RoyFloydV2.GeneratedMSBuildEditorConfig.editorconfig
+E:\sem2\apd\New folder\RoyFloydV2\obj\Debug\net6.0\RoyFloydV2.AssemblyInfoInputs.cache
+E:\sem2\apd\New folder\RoyFloydV2\obj\Debug\net6.0\RoyFloydV2.AssemblyInfo.cs
+E:\sem2\apd\New folder\RoyFloydV2\obj\Debug\net6.0\RoyFloydV2.csproj.CoreCompileInputs.cache
+E:\sem2\apd\New folder\RoyFloydV2\obj\Debug\net6.0\RoyFloydV2.dll
+E:\sem2\apd\New folder\RoyFloydV2\obj\Debug\net6.0\refint\RoyFloydV2.dll
+E:\sem2\apd\New folder\RoyFloydV2\obj\Debug\net6.0\RoyFloydV2.pdb
+E:\sem2\apd\New folder\RoyFloydV2\obj\Debug\net6.0\RoyFloydV2.genruntimeconfig.cache
+E:\sem2\apd\New folder\RoyFloydV2\obj\Debug\net6.0\ref\RoyFloydV2.dll

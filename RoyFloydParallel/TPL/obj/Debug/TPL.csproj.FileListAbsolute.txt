@@ -1,0 +1,16 @@
+E:\sem2\apd\TPL\bin\Debug\TPL.exe.config
+E:\sem2\apd\TPL\bin\Debug\TPL.exe
+E:\sem2\apd\TPL\bin\Debug\TPL.pdb
+E:\sem2\apd\TPL\obj\Debug\TPL.csproj.AssemblyReference.cache
+E:\sem2\apd\TPL\obj\Debug\TPL.csproj.SuggestedBindingRedirects.cache
+E:\sem2\apd\TPL\obj\Debug\TPL.csproj.CoreCompileInputs.cache
+E:\sem2\apd\TPL\obj\Debug\TPL.exe
+E:\sem2\apd\TPL\obj\Debug\TPL.pdb
+E:\sem2\apd\RoyFloydParallel\TPL\bin\Debug\TPL.exe.config
+E:\sem2\apd\RoyFloydParallel\TPL\bin\Debug\TPL.exe
+E:\sem2\apd\RoyFloydParallel\TPL\bin\Debug\TPL.pdb
+E:\sem2\apd\RoyFloydParallel\TPL\obj\Debug\TPL.csproj.AssemblyReference.cache
+E:\sem2\apd\RoyFloydParallel\TPL\obj\Debug\TPL.csproj.SuggestedBindingRedirects.cache
+E:\sem2\apd\RoyFloydParallel\TPL\obj\Debug\TPL.csproj.CoreCompileInputs.cache
+E:\sem2\apd\RoyFloydParallel\TPL\obj\Debug\TPL.exe
+E:\sem2\apd\RoyFloydParallel\TPL\obj\Debug\TPL.pdb
